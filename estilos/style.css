@@ -72,6 +72,7 @@ div#parallax-video-back {
 
 div#parallax-video-sim {
     background: white url(../imagens/pause.png) no-repeat;
+    overflow: hidden;
     margin: auto;
     background-size: contain;
     background-position: center center;
