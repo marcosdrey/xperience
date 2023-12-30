@@ -34,12 +34,12 @@ section#parallax {
     background-size: cover;
     background-attachment: fixed;
     width: 100vw;
-    height: 1000px;
+    height: 1600px;
 }
 
 div#parallaxtexto {
     background: rgba(0, 0, 0, 0.493);
-    height: 350px;
+    height: 550px;
     width: 100vw;
 }
 
@@ -66,7 +66,7 @@ span#xperience {
 
 div#parallax-video-back {
     background: rgba(0, 0, 0, 0.493);
-    height: 300px;
+    height: 500px;
     width: 100vw;
 }
 
@@ -80,9 +80,13 @@ div#parallax-video-sim {
     height: 90%;
 }
 
+div#rolagem-baixo {
+    height: 550px;
+}
+
 div#rolagem-baixo > p {
     background: rgba(0, 0, 0, 0.493);
-    height: 200px;
+    height: 350px;
     width: 100vw;
     color: white;
     text-align: justify;
@@ -105,7 +109,7 @@ section#texto {
     position: relative;
     background-color: rgb(48, 56, 53);
     width: 100vw;
-    height: 600px;
+    height: 800px;
 }
 
 div#precobox {
