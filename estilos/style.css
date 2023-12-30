@@ -34,7 +34,7 @@ section#parallax {
     background-size: cover;
     background-attachment: fixed;
     width: 100vw;
-    height: 1600px;
+    height: 1450px;
 }
 
 div#parallaxtexto {
@@ -81,12 +81,12 @@ div#parallax-video-sim {
 }
 
 div#rolagem-baixo {
-    height: 550px;
+    height: 500px;
 }
 
 div#rolagem-baixo > p {
     background: rgba(0, 0, 0, 0.493);
-    height: 350px;
+    height: 250px;
     width: 100vw;
     color: white;
     text-align: justify;
