@@ -118,6 +118,7 @@ div#precobox {
     width: 70%;
     height: 80%;
     border-radius: 7px;
+    border: 1px solid var(--cor001);
 
     color: white;
     text-align: center;
